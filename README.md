@@ -51,6 +51,9 @@ go mod tidy
 
 # Build the binary
 go build -o rackdisp ./cmd/rackdisp
+
+# Build for headless devices (removes X11/GLFW dependencies)
+go build -tags headless -o rackdisp ./cmd/rackdisp
 ```
 
 ### 3. Install as Service

@@ -1,11 +1,6 @@
 # RackDisp-I2C 🖥️
 
 > **A high-performance, animated system monitor for 1U Racks, Raspberry Pis, and Jetson Nanos.**
-<img width="320" height="160" alt="rackdisp_5scxi4cBWJ" src="https://github.com/user-attachments/assets/f204cf1d-7fcb-48bc-bdbc-52f5b1600063" />
-<img width="320" height="160" alt="rackdisp_nuXsmpE0ln" src="https://github.com/user-attachments/assets/c6c09b99-b1ee-4fd9-88f6-f3d0e093ba9c" />
-<img width="320" height="160" alt="chrome_XJCasBxtWB" src="https://github.com/user-attachments/assets/24bb2cd5-5bad-495e-8636-b3602f0ed6a1" />
-
-
 
 RackDisp-I2C is a robust CLI application designed to display critical system metrics on SSD1306 OLED displays. Optimized for I2C communication, it features smooth 30FPS animations, detailed AI workload monitoring (via Ollama), and a rotating status page system.
 
@@ -14,6 +9,11 @@ It is built with [periph.io](https://periph.io/) for hardware abstraction and [g
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Go Version](https://img.shields.io/badge/go-1.21%2B-cyan)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20ARM-orange)
+
+<img width="320" height="160" alt="rackdisp_5scxi4cBWJ" src="https://github.com/user-attachments/assets/f204cf1d-7fcb-48bc-bdbc-52f5b1600063" />
+<img width="320" height="160" alt="rackdisp_nuXsmpE0ln" src="https://github.com/user-attachments/assets/c6c09b99-b1ee-4fd9-88f6-f3d0e093ba9c" />
+<img width="320" height="160" alt="rackdisp_Nrvj5YBp4W" src="https://github.com/user-attachments/assets/347d8197-1aa7-4d26-8bc4-d4bc018e9d95" />
+<img width="320" height="160" alt="chrome_XJCasBxtWB" src="https://github.com/user-attachments/assets/24bb2cd5-5bad-495e-8636-b3602f0ed6a1" />
 
 ## ✨ Features
 

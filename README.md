@@ -89,7 +89,7 @@ go run . --device=emulator
 ## 🧠 AI Workload Monitoring (Ollama)
 
 RackDisp automatically detects if [Ollama](https://ollama.com/) is running and querying its API.
-- **Config**: By default, it queries `http://10.10.70.159:11434`. 
+- **Config**: By default, it queries `http://127.0.0.1:11434`. 
 - **Modify**: Edit `internal/stats/ollama.go` to change the IP address if your Ollama instance is elsewhere.
 
 ## 📁 Project Structure

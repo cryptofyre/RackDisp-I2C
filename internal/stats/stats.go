@@ -87,7 +87,7 @@ func GetTemp() string {
 	}
 	tempStr := strings.TrimSpace(string(data))
 	if tempInt, err := strconv.Atoi(tempStr); err == nil {
-		return fmt.Sprintf("%dCR", tempInt/1000)
+		return fmt.Sprintf("%d°C", tempInt/1000)
 	}
 	return "N/A"
 }

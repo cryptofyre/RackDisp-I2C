@@ -111,7 +111,7 @@ RackDisp automatically detects if [Ollama](https://ollama.com/) is running and q
 For a 1U chassis, I've developed remixed part for converting a 10 inch rack slot to a 19 inch rack slot; But in the blank space I've added a spot just for mounting the SSD1306 display. This can go into any of your devices that support such a thing.
 
 Check it out on [MakerWorld](https://makerworld.com/en/models/2416987-rackdisp-10to19in-adapter#profileId-2650472)
-Or download the STL directly from [here](https://github.com/cryptofyre/RackDisp-I2C/STLs)
+or download the STL directly from [here](https://github.com/cryptofyre/RackDisp-I2C/tree/master/STLs)
 
 ## 🤝 Contributing
 
